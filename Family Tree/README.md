@@ -51,9 +51,7 @@ By default, it reads `family_tree_sample.xlsx` and generates `family_tree_sample
 ## 🧪 Sample Output
 
 The output GEDCOM file (`.ged`) can be imported into:
-- [Gramps](https://gramps-project.org/)
-- [MyHeritage](https://www.myheritage.com/)
-- [Family Tree Builder](https://www.familytreebuilder.com/)
+- [FamilyEcho](https://familyecho.com/)
 
 ## 📄 License
 
